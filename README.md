@@ -1,5 +1,5 @@
 # Hi! I'm Maegan.
-I like code, coffee, and tech.
+I like code, coffee, and tech. ☕
 
 <div style="display:flex;justify-content:center;">
 
@@ -11,3 +11,9 @@ I like code, coffee, and tech.
 I also like arbitrary numbers with no contect, so here are some that represent me.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=maeganwilson&count_private=true&show_icons=true&theme=cobalt"/></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeganwilson&count_private=true&show_icons=true&theme=cobalt"/></a>
+
+---
+
+Find me on the web
+
+<a href="https://www.buymeacoffee.com/maeganwilson_"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maeganwilson_&button_colour=a854a9&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
