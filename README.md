@@ -1,12 +1,23 @@
 # Hi! I'm Maegan.
 <div style="display:flex;justify-content:center;">
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6na4Lq0ozPBjHD1X42szEQ?logo=youtube&style=for-the-badge) ![Twitch Status](https://img.shields.io/twitch/status/maeganwilson_?logo=twitch&style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/maeganwilson_?logo=twitter&style=for-the-badge)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6na4Lq0ozPBjHD1X42szEQ?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) [![Twitch Status](https://img.shields.io/twitch/status/maeganwilson_?logo=twitch&style=for-the-badge)](https://twitch.tv/maeganwilson_) [![Twitter Follow](https://img.shields.io/twitter/follow/maeganwilson_?logo=twitter&style=for-the-badge)](https://twitter.com/maeganwilson_)
 
 </div>
 I like code, coffee, and tech. ☕
 <br/><br/>
 I like to share my passions with others which is why I link to everything everywhere. I'm open to freelance projects if you have an iOS app or web app that needs some work. Shoot me an <a href = "mailto: freelance@cctplus.xyz">email</a> and we can start discussions.
+
+# Current Projects
+
+Here are some projects I'm currently working on.
+
+| Project Name | Description | Platform(s) | GitHub Repo |
+| --- | --- | --- | --- |
+| iHog | App to control Hog 4 consoles over OSC | iOS and iPadOS | [Link](https://github.com/maeganwilson/iHog4)|
+| Fixture Universe | App to calculate the fixture universe number from the artnet subnet and universe numbers | iOS and iPadOS | [Link](https://github.com/maeganwilson/artnet-converter) |
+
+These projects are my main focus. Make sure to check out my repo list for all the other incomplete projects that I start and have full intention to finish at somepoint and time in life.
 
 # Stats
 
