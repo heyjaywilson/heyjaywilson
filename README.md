@@ -34,6 +34,4 @@ I have a website where I post at least once a week about something related to so
 
 [![My Website: cctplus.xyz](/assets/images/website.png)](https://cctplus.xyz)
 
-If you like what I do and want to support me, then consider buying me a cup of coffee.
-
-[![Buy Me a Coffee](/assets/images/bmc.png)](https://www.buymeacoffee.com/maeganwilson_)
+If you like what I do and want to support me, then consider [buying me a cup of coffee](https://www.buymeacoffee.com/maeganwilson_).
