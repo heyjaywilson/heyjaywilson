@@ -30,8 +30,6 @@ I also like arbitrary numbers with no context, so here are some that kind of rep
 
 # Find me on the web
 
-I have a website where I post at least once a week about something related to software development and or tech in general.
+I have a website where I post somewhat frequently about software development, tech, or personal development.
 
 [![My Website: cctplus.xyz](/assets/images/website.png)](https://cctplus.xyz)
-
-If you like what I do and want to support me, then consider [buying me a cup of coffee](https://www.buymeacoffee.com/maeganwilson_).
