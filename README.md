@@ -12,13 +12,13 @@ I like to share my passions with others which is why I link to everything everyw
 
 Here are some projects I'm currently working on.
 
-| Project Name | Description | Platform(s) | GitHub Repo |
+| Project Name | Description | Platform(s) |
 | --- | --- | --- | --- |
-| iHog | App to control Hog 4 consoles over OSC | iOS and iPadOS | [Link](https://github.com/maeganwilson/iHog4)|
-| CoffeeToast | Swift package to add toast notifcations | Xcode | [Link](https://github.com/maeganwilson/CoffeeToast) |
-| Fixture Universe | App to calculate the fixture universe number from the artnet subnet and universe numbers | iOS and iPadOS | [Link](https://github.com/maeganwilson/artnet-converter) |
+| [iHog]((https://github.com/maeganwilson/iHog4)) | App to control Hog 4 consoles over OSC | iOS and iPadOS |
+| [CoffeeToast](https://github.com/maeganwilson/CoffeeToast) | Swift package to add toast notifcations | Xcode | 
+| [Fixture Universe](https://github.com/maeganwilson/artnet-converter)| App to calculate the fixture universe number from the artnet subnet and universe numbers |
 
-These projects are my main focus. Make sure to check out my repo list for all the other incomplete projects that I start and have full intention to finish at somepoint and time in life.
+These projects are my main focus.
 
 # Stats
 
