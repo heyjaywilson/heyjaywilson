@@ -6,17 +6,17 @@
 </div>
 I like code, coffee, and tech. ☕
 <br/><br/>
-I like to share my passions with others which is why I link to everything everywhere. I'm open to freelance projects if you have an iOS app or web app that needs some work. Shoot me an <a href = "mailto: freelance@cctplus.xyz">email</a> and we can start discussions.
+I like to share my passions with others which is why I link to everything everywhere. I'm open to freelance projects if you have an iOS app or web app that needs some work. Shoot me an <a href = "mailto: freelance@cctplus.dev">email</a> and we can start discussions.
 
 # Current Projects
 
 Here are some projects I'm currently working on.
 
 | Project Name | Description | Platform(s) |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [iHog]((https://github.com/maeganwilson/iHog4)) | App to control Hog 4 consoles over OSC | iOS and iPadOS |
 | [CoffeeToast](https://github.com/maeganwilson/CoffeeToast) | Swift package to add toast notifcations | Xcode | 
-| [Fixture Universe](https://github.com/maeganwilson/artnet-converter)| App to calculate the fixture universe number from the artnet subnet and universe numbers |
+| [Fixture Universe](https://github.com/maeganwilson/artnet-converter)| App to calculate the fixture universe number from the artnet subnet and universe numbers | iOS and iPadOS |
 
 These projects are my main focus.
 
