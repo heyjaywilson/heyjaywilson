@@ -8,19 +8,17 @@ I like code, coffee, and tech. ☕
 <br/><br/>
 I like to share my passions with others which is why I link to everything everywhere. I'm open to freelance projects if you have an iOS app that needs some work. Shoot me an <a href = "mailto: freelance@cctplus.dev">email</a> and we can start discussions.
 
-# Current Projects
+## Current Projects
 
 Here are some projects I'm currently working on.
 
 | Project Name | Description | Platform(s) |
 | --- | --- | --- |
-| [iHog](https://github.com/maeganwilson/iHog4) | App to control Hog 4 consoles over OSC | iOS and iPadOS |
-| [CoffeeToast](https://github.com/maeganwilson/CoffeeToast) | Swift package to add toast notifcations | Xcode | 
-| [Fixture Universe](https://github.com/maeganwilson/artnet-converter)| App to calculate the fixture universe number from the artnet subnet and universe numbers | iOS and iPadOS |
+| [iHog](https://github.com/maeganwilson/iHog4) | App to control Hog 4 consoles over OSC | iOS 15.0+ & iPadOS 15.0+ |
+| [CoffeeToast](https://github.com/maeganwilson/CoffeeToast) | Swift package to add toast notifcations | iOS 15.0+ |
+| [Coffee_](https://maeganwilson.notion.site/Coffee_-aa3e062f189d467f9a56e5ed4def79e9) | Coffee bean tracking app. It's currently in beta | iOS 15.0+ |
 
-These projects are my main focus.
-
-# Stats
+## Stats
 
 I also like arbitrary numbers with no context, so here are some that kind of represent me.
 
@@ -29,7 +27,7 @@ I also like arbitrary numbers with no context, so here are some that kind of rep
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeganwilson&count_private=true&show_icons=true&layout=compact&theme=github_dark"/></a>
 
 
-# Find me on the web
+## Find me on the web
 
 I have a website where I post somewhat frequently about software development, tech, or personal development.
 
