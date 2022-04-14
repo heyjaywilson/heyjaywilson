@@ -16,7 +16,7 @@ Here are some projects I'm currently working on.
 | --- | --- | --- |
 | [iHog](https://github.com/maeganwilson/iHog4) | App to control Hog 4 consoles over OSC | iOS 15.0+ & iPadOS 15.0+ |
 | [CoffeeToast](https://github.com/maeganwilson/CoffeeToast) | Swift package to add toast notifcations | iOS 15.0+ |
-| [Coffee_](https://maeganwilson.notion.site/Coffee_-aa3e062f189d467f9a56e5ed4def79e9) | Coffee bean tracking app. It's currently in beta | iOS 15.0+ |
+| [Coffee_](https://maeganwilson.notion.site/Coffee_-aa3e062f189d467f9a56e5ed4def79e9) | Coffee bean tracking app. It's currently on the app store | iOS 15.0+ |
 
 ## Stats
 
@@ -29,6 +29,4 @@ I also like arbitrary numbers with no context, so here are some that kind of rep
 
 ## Find me on the web
 
-I have a website where I post somewhat frequently about software development, tech, or personal development.
-
-[![My Website: cctplus.xyz](/assets/images/website.png)](https://cctplus.xyz)
+I have a [website](https:://cctplus.dev) where I post somewhat frequently about software development, tech, or personal development.
