@@ -23,9 +23,9 @@ Here are some projects I'm currently working on.
 
 I also like arbitrary numbers with no context, so here are some that kind of represent me.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=maeganwilson&count_private=true&show_icons=true&theme=github_dark"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=heyjaywilson&count_private=true&show_icons=true&theme=github_dark"/></a>
 <br/><br/><br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeganwilson&count_private=true&show_icons=true&layout=compact&theme=github_dark"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjaywilson&count_private=true&show_icons=true&layout=compact&theme=github_dark"/></a>
 
 
 ## Find me on the web
