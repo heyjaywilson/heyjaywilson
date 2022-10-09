@@ -6,8 +6,6 @@
 
 </div>
 I like code, coffee, and tech. ☕
-<br/><br/>
-I like to share my passions with others which is why I link to everything everywhere. I'm open to freelance projects if you have an iOS app that needs some work. Shoot me an <a href = "mailto: freelance@cctplus.dev">email</a> and we can start discussions.
 
 ## Current Projects
 
