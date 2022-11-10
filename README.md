@@ -10,4 +10,4 @@ I like code, coffee, and tech. ☕
 
 ## Find me on the web
 
-I have a [website](https:://cctplus.dev) where I post somewhat frequently about software development, tech, or personal development.
+I have a [website](https://cctplus.dev) where I post about software development, tech, or personal development.
