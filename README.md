@@ -6,6 +6,8 @@
 
 </div>
 
+Follow me on <a rel="me" href="https://iosdev.space/@heyjaywilson">Mastodon</a>
+
 I like code, coffee, and tech. ☕
 
 ## Find me on the web
