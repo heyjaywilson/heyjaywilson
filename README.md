@@ -6,10 +6,10 @@
 
 </div>
 
-Follow me on <a rel="me" href="https://iosdev.space/@heyjaywilson">Mastodon</a>
-
 I like code, coffee, and tech. ☕
 
 ## Find me on the web
 
-I have a [website](https://cctplus.dev) where I post about software development, tech, or personal development.
+Follow me on <a rel="me" href="https://iosdev.space/@heyjaywilson">Mastodon</a>
+
+Checkout my [website](https://cctplus.dev)
