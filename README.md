@@ -10,6 +10,6 @@ I like code, coffee, and tech. ☕
 
 ## Find me on the web
 
-Follow me on <a rel="me" href="https://iosdev.space/@heyjaywilson">Mastodon</a>
+Follow me on <a rel="nofollow me" href="https://iosdev.space/@heyjaywilson">Mastodon</a>
 
 Checkout my [website](https://cctplus.dev)
