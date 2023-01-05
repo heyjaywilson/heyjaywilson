@@ -1,4 +1,13 @@
-# Hi! I'm Jay.
+```swift
+public struct AboutMe {
+    let name = "Jay"
+    var pronouns = ["they","them"]
+    var profession = "iOS Engineer"
+
+    /// Find me on most platforms with this handle
+    let socialMediaHandle = "heyjaywilson"
+}
+```
 
 <div style="display:flex;justify-content:center;">
 
@@ -6,7 +15,7 @@
 
 </div>
 
-I like code, coffee, and tech. ☕
+
 
 ## Find me on the web
 
