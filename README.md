@@ -2,19 +2,17 @@
 public struct AboutMe {
     let name = "Jay"
     var pronouns = ["they","them"]
-    var profession = "iOS Engineer @ Matter Neuroscience"
+    
+    let profession = "iOS Engineer @ Matter Neuroscience"
+    
     let preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
     let canUse = ["react", "javascript", "firebase"]
 }
 ```
 
-<div style="display:flex;justify-content:center;">
+I like to solve problems using Swift as much as possible and am always eager to share what I'm working on and learning both on my YouTube and on my Twitch chanels.
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6na4Lq0ozPBjHD1X42szEQ?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) [![Twitch Status](https://img.shields.io/twitch/status/heyjaywilson?logo=twitch&style=for-the-badge)](https://twitch.tv/heyjaywilson) [![Twitter Follow](https://img.shields.io/twitter/follow/heyjaywilson?logo=twitter&style=for-the-badge)](https://twitter.com/heyjaywilson)
-
-</div>
-
-I like to solve problems using Swift as much as possible and am always eager to share what I'm working on and learning. My YouTube channel is where I get to dive deep into thoughts I have around my career, engineering practices, and life. Occasionally, I'll make a tutorial about something cool in code. Generally I save the code explanations for my Twitch streams where I build my personal apps and tools live. 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
