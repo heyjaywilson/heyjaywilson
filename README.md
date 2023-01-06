@@ -3,8 +3,8 @@ public struct AboutMe {
 	let name = "Jay"
 	var pronouns = ["they","them"]
 	var profession = "iOS Engineer @ Matter Neuroscience"
- let preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
- let canUse = ["react", "javascript", "firebase"]
+    let preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
+    let canUse = ["react", "javascript", "firebase"]
 
 	/// Find me on most platforms with this handle
 	let socialMediaHandle = "heyjaywilson"
