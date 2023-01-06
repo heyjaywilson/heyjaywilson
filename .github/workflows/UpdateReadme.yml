@@ -6,7 +6,7 @@ on:
 		- cron: "0 0 * * *" # runs every day at midnight
 steps:
 	- uses: actions/checkout@v2
-	- run: cd Readme && swift run Readme $(pwd)/../templates/README.md.tpl $(pwd)/../README.md
+	- run: cd Readme && swift run README $(pwd)/../TEMPLATES/Readme.md.tpl $(pwd)/../README.md
 	- run: |
 		git config user.name heyjaywilson
 	    git config user.email contact@cctplus.dev
