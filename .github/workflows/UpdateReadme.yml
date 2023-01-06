@@ -2,8 +2,8 @@ name: Fetch latest blog and YouTube video
 on:
   workflow_dispatch:
   push:
-	branches:
-	  - master
+	  branches:
+	    - master
   pull_request:
   schedule:
     - cron: "0 0 * * *" # runs every day at midnight
