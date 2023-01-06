@@ -1,6 +1,8 @@
 name: Fetch latest blog and YouTube video
 on:
-	push
+	push:
+		- main
+		- dynamic-profile
 	schedule:
 		- cron: "0 0 * * *" # runs every day at midnight
 steps:
