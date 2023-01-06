@@ -17,12 +17,8 @@ public struct AboutMe {
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
-- [Why Have a Developer Diary?](https://www.youtube.com/watch?v=khvkInpAJFI)
-- [Ways to get a software engineering job as a #selftaught #developer](https://www.youtube.com/watch?v=-1Sz5px0UaQ)
-- [How I stop myself from hitting New Project | Vlogmas Day 9](https://www.youtube.com/watch?v=Ho4TdS0lmho)
+{latest_youtube}
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
-- [Why Have a Developer Diary?](https://cctplus.dev/get-started-with-a-developer-diary/)
-- [What is App Architecture](https://cctplus.dev/what-is-app-architecture/)
-- [Which to learn first UIKit or SwiftUI as a new developer?](https://cctplus.dev/which-to-learn-first-uikit-or-swiftui/)
+{latest_blogs}

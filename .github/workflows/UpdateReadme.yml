@@ -1,0 +1,21 @@
+name: Fetch latest blog and YouTube video
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+  pull_request:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: cd Readme && swift run README $(pwd)/../TEMPLATES/Readme.md.tpl $(pwd)/../README.md
+      - run: |
+          git config user.name heyjaywilson
+          git config user.email contact@cctplus.dev
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[generated]: Update latest blog posts in `README.md` file"
+          git push origin master
