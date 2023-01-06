@@ -1,8 +1,11 @@
 //
-//  File.swift
+//  MarkdownFormatter.swift
 //  
 //
-//  Created by Jay on 1/5/23.
+// Follow Jay on mastodon @heyjay@iosdev.space
+//              twitter   @heyjaywilson
+//              github    @heyjaywilson
+//              website  cctplus.dev
 //
 
 import Foundation
