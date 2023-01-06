@@ -1,8 +1,10 @@
 name: Fetch latest blog and YouTube video
 on:
+  workflow_dispatch:
   push:
-	- main
-	- dynamic-profile
+	branches:
+	  - master
+  pull_request:
   schedule:
     - cron: "0 0 * * *" # runs every day at midnight
 steps:
