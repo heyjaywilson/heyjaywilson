@@ -1,7 +1,6 @@
 name: Fetch latest blog and YouTube video
 on:
-	push:
-		- main
+	push
 	schedule:
 		- cron: "0 0 * * *" # runs every day at midnight
 steps:
