@@ -17,9 +17,9 @@ public struct AboutMe {
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [Reasons you need a #developer diary. Checkout my latest video for the full video](https://www.youtube.com/watch?v=MwLakdpGQuY)
 - [Why Have a Developer Diary?](https://www.youtube.com/watch?v=khvkInpAJFI)
 - [Ways to get a software engineering job as a #selftaught #developer](https://www.youtube.com/watch?v=-1Sz5px0UaQ)
-- [How I stop myself from hitting New Project | Vlogmas Day 9](https://www.youtube.com/watch?v=Ho4TdS0lmho)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
