@@ -1,13 +1,15 @@
-```swift
 public struct AboutMe {
-	let name = "Jay"
-	var pronouns = ["they","them"]
-	var profession = "iOS Engineer @ Matter Neuroscience"
-
-	/// Find me on most platforms with this handle
-	let socialMediaHandle = "heyjaywilson"
+    let name = "Jay"
+    var pronouns = ["they","them"]
+    
+    let profession = "iOS Engineer @ Matter Neuroscience"
+    
+    let preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
+    let canUse = ["react", "javascript", "firebase"]
 }
 ```
+
+I like to solve problems using Swift as much as possible and am always eager to share what I'm working on and learning both on my YouTube and on my Twitch chanels.
 
 <div style="display:flex;justify-content:center;">
 
