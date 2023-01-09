@@ -1,13 +1,15 @@
-```swift
 public struct AboutMe {
-	let name = "Jay"
-	var pronouns = ["they","them"]
-	var profession = "iOS Engineer @ Matter Neuroscience"
-
-	/// Find me on most platforms with this handle
-	let socialMediaHandle = "heyjaywilson"
+    let name = "Jay"
+    var pronouns = ["they","them"]
+    
+    let profession = "iOS Engineer @ Matter Neuroscience"
+    
+    let preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
+    let canUse = ["react", "javascript", "firebase"]
 }
 ```
+
+I like to solve problems using Swift as much as possible and am always eager to share what I'm working on and learning both on my YouTube and on my Twitch chanels.
 
 <div style="display:flex;justify-content:center;">
 
@@ -17,9 +19,9 @@ public struct AboutMe {
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [The changing of computers to signify the start of a new week #iosdev](https://www.youtube.com/watch?v=I4KZeKho5X4)
 - [Reasons you need a #developer diary. Checkout my latest video for the full video](https://www.youtube.com/watch?v=MwLakdpGQuY)
 - [Why Have a Developer Diary?](https://www.youtube.com/watch?v=khvkInpAJFI)
-- [Ways to get a software engineering job as a #selftaught #developer](https://www.youtube.com/watch?v=-1Sz5px0UaQ)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
