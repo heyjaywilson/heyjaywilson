@@ -20,9 +20,9 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [What’s in my #bag when I have to work not at home #edc](https://www.youtube.com/watch?v=PSSXCs4HBk0)
 - [iHog work recap from the stream last night #swift #iosdev #iosdeveloper #twitch](https://www.youtube.com/watch?v=d55JXChvot4)
 - [The changing of computers to signify the start of a new week #iosdev](https://www.youtube.com/watch?v=I4KZeKho5X4)
-- [Reasons you need a #developer diary. Checkout my latest video for the full video](https://www.youtube.com/watch?v=MwLakdpGQuY)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
