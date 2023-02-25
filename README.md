@@ -20,9 +20,9 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [E1: New Vapor Project || Building a Project Tracker with a Vapor Backend and SwiftUI front end](https://www.youtube.com/watch?v=b4nNA6HfV-A)
 - [Using the Point Free Dependency Library with Core Data](https://www.youtube.com/watch?v=zdYHz5J725Y)
 - [Tooling Tuesday: Whimsical makes low-fi wireframes easy #softwaredeveloper](https://www.youtube.com/watch?v=fQ8tfhOXxEU)
-- [What’s in my #bag when I have to work not at home #edc](https://www.youtube.com/watch?v=PSSXCs4HBk0)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
