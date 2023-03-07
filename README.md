@@ -5,8 +5,8 @@ public struct AboutMe {
     
     let profession = "iOS Engineer @ Matter Neuroscience"
     
-    let preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
-    let canUse = ["react", "javascript", "firebase"]
+    var preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
+    var hasUsed = ["react", "javascript", "firebase"]
 }
 ```
 
@@ -20,9 +20,9 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [Want to be a #dev? Just start and don’t be worried about learning the right thing #iosengineer](https://www.youtube.com/watch?v=YukEAvi31q4)
+- [What’s my background as an iOS developer?](https://www.youtube.com/watch?v=OMUrHz-onLo)
 - [E2: Building a form using SwiftUI and TCA for macOS || Building an app with Vapor and SwiftUI](https://www.youtube.com/watch?v=ufE7FTGXMzs)
-- [E1: New Vapor Project || Building a Project Tracker with a Vapor Backend and SwiftUI front end](https://www.youtube.com/watch?v=b4nNA6HfV-A)
-- [Using the Point Free Dependency Library with Core Data](https://www.youtube.com/watch?v=zdYHz5J725Y)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
