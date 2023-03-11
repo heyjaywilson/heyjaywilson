@@ -20,9 +20,9 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [E3: API Calls in Swift using Alamo Fire || Building an app with Vapor and SwiftUI](https://www.youtube.com/watch?v=Z-AYlSQukZ8)
 - [Want to be a #dev? Just start and don’t be worried about learning the right thing #iosengineer](https://www.youtube.com/watch?v=YukEAvi31q4)
 - [What’s my background as an iOS developer?](https://www.youtube.com/watch?v=OMUrHz-onLo)
-- [E2: Building a form using SwiftUI and TCA for macOS || Building an app with Vapor and SwiftUI](https://www.youtube.com/watch?v=ufE7FTGXMzs)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
