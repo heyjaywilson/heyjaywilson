@@ -20,9 +20,9 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [E6: Making a todo form and storing it in the database || Building an app with Vapor and SwiftUI](https://www.youtube.com/watch?v=b2ZsX37CYPE)
 - [E5: Deciding if TCA needs to be in every view || Building an app with Vapor and SwiftUI](https://www.youtube.com/watch?v=o2CMNdP9WVI)
 - [E4: Building an API dependency in Swift and AlamoFire || Building an app with Vapor and SwiftUI](https://www.youtube.com/watch?v=_bSFUSicWjI)
-- [Having a routine to the end and beginning of the day is super important when #workingfromhome](https://www.youtube.com/watch?v=83fpMS8MmiE)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
