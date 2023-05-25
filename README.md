@@ -19,9 +19,9 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [Breaking down a function like this makes it easy to understand the functionality you need #iosdev](https://www.youtube.com/watch?v=UZWndtGboZM)
 - [How to use a Swift Package for your iOS App](https://www.youtube.com/watch?v=VYAqP4cTfdU)
 - [E6: Making a todo form and storing it in the database || Building an app with Vapor and SwiftUI](https://www.youtube.com/watch?v=b2ZsX37CYPE)
-- [E5: Deciding if TCA needs to be in every view || Building an app with Vapor and SwiftUI](https://www.youtube.com/watch?v=o2CMNdP9WVI)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
