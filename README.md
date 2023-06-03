@@ -19,12 +19,12 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [Grids in SwiftUI: Define Alignment, Override on a Per-Column Basis, and Span Multiple Columns](https://www.youtube.com/watch?v=E9lTXG4nRR4)
 - [Breaking down a function like this makes it easy to understand the functionality you need #iosdev](https://www.youtube.com/watch?v=UZWndtGboZM)
 - [How to use a Swift Package for your iOS App](https://www.youtube.com/watch?v=VYAqP4cTfdU)
-- [E6: Making a todo form and storing it in the database || Building an app with Vapor and SwiftUI](https://www.youtube.com/watch?v=b2ZsX37CYPE)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
+- [An Introduction to Grids in SwiftUI](https://cctplus.dev/an-introduction-to-grids-in-swiftui/)
 - [Why Have a Developer Diary?](https://cctplus.dev/get-started-with-a-developer-diary/)
 - [What is App Architecture](https://cctplus.dev/what-is-app-architecture/)
-- [Which to learn first UIKit or SwiftUI as a new developer?](https://cctplus.dev/which-to-learn-first-uikit-or-swiftui/)
