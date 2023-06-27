@@ -19,9 +19,9 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [3 ways to master new tech as a #developer](https://www.youtube.com/watch?v=zoV-nW94UIg)
 - [🟣 SwiftData development June 15, 2023 (Cut from Twitch stream)](https://www.youtube.com/watch?v=qXMeTuC2Xr8)
 - [🟣 Exploring Return switch statements and Swift macros live - June 12th](https://www.youtube.com/watch?v=QFaPbfWR7yE)
-- [Grids in SwiftUI: Define Alignment, Override on a Per-Column Basis, and Span Multiple Columns](https://www.youtube.com/watch?v=E9lTXG4nRR4)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
