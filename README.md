@@ -19,9 +19,9 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [9 Months into My First iOS Job](https://www.youtube.com/watch?v=j0ICg05uue4)
 - [Definitely recommend changing up the environment to work #workfromanywhere #developer](https://www.youtube.com/watch?v=d8AlEWwOBmM)
 - [Weekly Faves](https://www.youtube.com/watch?v=vkfZ7VIoi5I)
-- [🟣 SwiftData and Web dev talk development June 27, 2023 (Twitch stream)](https://www.youtube.com/watch?v=yXEa_-RZrHs)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
