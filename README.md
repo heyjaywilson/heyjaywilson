@@ -19,9 +19,9 @@ I like to solve problems using Swift as much as possible and am always eager to 
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [💡 Consistency will help you accomplish more than any power session will](https://www.youtube.com/watch?v=aZJwroD_Apk)
 - [Mondays are for getting stuff done 🛠️](https://www.youtube.com/watch?v=oWkKnPXgNFM)
 - [9 Months into My First iOS Job](https://www.youtube.com/watch?v=j0ICg05uue4)
-- [Definitely recommend changing up the environment to work #workfromanywhere #developer](https://www.youtube.com/watch?v=d8AlEWwOBmM)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
