@@ -10,7 +10,7 @@ public struct AboutMe {
 }
 ```
 
-I like to solve problems using Swift as much as possible and am always eager to share what I'm working on and learning both on my YouTube and on my Twitch chanels.
+I solve problems using the tools available to me. I generally like using Swift and SwiftUI but not afraid to try something new.
 
 <div style="display:flex;justify-content:center;">
 
