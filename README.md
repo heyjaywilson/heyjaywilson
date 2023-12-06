@@ -19,9 +19,9 @@ I solve problems using the tools available to me. I generally like using Swift a
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [Blueprint Dev Vlog Dec 4 2023](https://www.youtube.com/watch?v=pM26bEIoRl4)
 - [One tip to get a developer job...](https://www.youtube.com/watch?v=B8iKS5-XZ9A)
 - [pull requests and meetings || day in my life || vlog](https://www.youtube.com/watch?v=y8wP87mUm2k)
-- [What I do when I’m not working during the week](https://www.youtube.com/watch?v=F4KScMmz6Rw)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
