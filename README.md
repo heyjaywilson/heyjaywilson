@@ -19,9 +19,9 @@ I solve problems using the tools available to me. I generally like using Swift a
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [Embracing Appreciation: My Theme for the Year](https://www.youtube.com/watch?v=r01uJDn3itI)
 - [Reflecting on Year 29: Health, Achievements, and Lessons Learned | Birthday Check-In](https://www.youtube.com/watch?v=vUikAC92QoY)
 - [What's in my 2024 work bag?](https://www.youtube.com/watch?v=wPMGpqla82w)
-- [State of my content...](https://www.youtube.com/watch?v=9C4-p5hjgWk)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
