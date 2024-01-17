@@ -19,9 +19,9 @@ I solve problems using the tools available to me. I generally like using Swift a
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
+- [Items on my desk that aren't tech #desksetup #workfromhome #deskinspiration](https://www.youtube.com/watch?v=UEoq6F4Lz60)
 - [Saturday is errand day. #vlog #dayinthelife](https://www.youtube.com/watch?v=g3pETJgMTmQ)
 - [What's on my desk as a software engineer in 2024](https://www.youtube.com/watch?v=nYZo-SVYRo0)
-- [Nothing clicks the first time, so don’t give up. Just try again. You’ll get it!](https://www.youtube.com/watch?v=roW9AmfIJ0U)
 
 ## Latest [Blog](https://cctplus.dev) Posts
 
